@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--New Theme-->
+    <color name="actionBar_color_theme">@color/primary_color</color>
+    <color name="actionBar_text_color">#577f91</color>
+    <color name="primary_color">#587e91</color>
+    <color name="secondary_color">#41616e</color>
+    <color name="mainLayout_background_color">#e1f4fd</color>
+    <color name="button_text_color">@color/mainLayout_background_color</color>
+
+    <color name="edit_text_background_tint">#a8a8a8</color>
+</resources>

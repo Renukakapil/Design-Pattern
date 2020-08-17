@@ -1,0 +1,3 @@
+include ':greendaogenerator'
+include ':app'
+rootProject.name = "DesignPatternApp"
